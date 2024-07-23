@@ -2,7 +2,7 @@
 
 ## 特性
 * **typescript** 
-* Vue3 init
+* Vue3 init -test
 * 单元测试
 * 提交发布前验证
 * travis 实现自动发布
